@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+
+    background-image: url('https://cdn.pixabay.com/photo/2023/06/15/02/38/fauna-8064270_640.jpg');
+}
